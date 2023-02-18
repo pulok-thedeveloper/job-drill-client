@@ -1,0 +1,43 @@
+.fresher{
+    background-color: #F5F7FA;
+}
+
+.job-container{
+    border: 1px solid rgba(0, 0, 0, 0.267);
+}
+
+.company-name{
+    color: var(--primaryColor);
+}
+
+.salary, .location{
+    color: #49526d;
+}
+
+.salary svg, .location svg{
+    color: var(--primaryColor);
+}
+
+.apply-btn{
+    background-color: var(--primaryColor);
+    border: 1px solid var(--primaryColor);
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.apply-btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.browse-btn{
+    background-color: var(--primaryColor);
+    border: 2px solid var(--primaryColor);
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.browse-btn:hover{
+    background-color: #fff;
+    color: var(--primaryColor);
+}

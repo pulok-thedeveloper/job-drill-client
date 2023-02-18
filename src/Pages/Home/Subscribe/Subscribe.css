@@ -1,0 +1,14 @@
+.subscribe-container{
+    background-image: url('http://utouchdesign.com/themes/envato/escort/assets/img/bg-new.png');
+    background-color: var(--primaryColor);
+    background-size: cover;
+}
+
+.input-group{
+    outline: 7px solid #ffffff67;
+}
+
+.subscribe-btn{
+    background-color: var(--primaryColor);
+    color: #fff;
+}

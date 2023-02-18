@@ -1,0 +1,17 @@
+.header-container{
+    background:linear-gradient(90deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url('../../../Assests/austin-distel-mpN7xjKQ_Ns-unsplash.jpg');
+    background-size: cover;
+}
+
+.job-number{
+    color: var(--primaryColor);
+}
+
+.upload-btn{
+    background-color: var(--primaryColor);
+}
+
+.upload-btn:hover{
+    background-color: #fff;
+    color: var(--primaryColor);
+}

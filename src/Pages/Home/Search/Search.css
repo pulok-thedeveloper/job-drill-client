@@ -1,0 +1,38 @@
+.search-container{
+    background-color: #f5f7fa;
+}
+
+.search-tabs{
+    transition: all 0.3s;
+}
+
+.search-tabs .active{
+    background-color: var(--primaryColor);
+    color: #fff;
+}
+
+.form-control{
+    background-color: #eeeeee;
+    padding: 10px 20px;
+    outline: 0;
+    font-size: 90%;
+}
+
+.submit-btn{
+    background-color: var(--primaryColor);
+    color: #fff;
+    font-weight: 500;
+}
+
+.keyword{
+    background-color: rgba(29, 191, 115, 0.1);
+    padding: 5px 10px;
+    margin: 0 5px;
+    color: var(--primaryColor);
+    line-height: 30px;
+}
+
+.keyword:hover{
+    background-color: var(--primaryColor);
+    color: #fff;
+}

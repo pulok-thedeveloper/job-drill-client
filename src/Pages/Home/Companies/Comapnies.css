@@ -1,0 +1,25 @@
+.comapny-logo{
+    width: 150px;
+}
+
+.details-btn{
+    background-color: rgba(29, 191, 115, 0.1);
+    padding: 5px 10px;
+    color: var(--primaryColor);
+    transition: all 0.3s;
+}
+
+.details-btn:hover{
+    background-color: var(--primaryColor);
+    color: #fff;
+}
+
+input:focus{
+    outline: 0;
+}
+
+@media screen and (max-width: 640px) {
+    .comapny-logo{
+        width: 100px;
+    }
+}

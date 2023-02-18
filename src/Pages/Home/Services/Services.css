@@ -1,0 +1,21 @@
+.service-container{
+    background-color: #f5f7fa;
+}
+
+.service{
+    transition: all 0.3s;
+}
+
+.active{
+    background-color: #1dbf739c;
+}
+
+.service-icons{
+    width: 80px;
+}
+
+@media screen and (max-width: 640px) {
+    .service-icons{
+        width: 50px;
+    }
+  }

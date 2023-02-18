@@ -1,0 +1,16 @@
+.logo-2{
+    color: var(--primaryColor);
+}
+
+.signin-btn{
+    background-color: var(--primaryColor);
+}
+
+.signin-btn:hover{
+    background-color: #fff;
+    color: var(--primaryColor);
+}
+
+.nav-links a:hover{
+    color: var(--primaryColor);
+}

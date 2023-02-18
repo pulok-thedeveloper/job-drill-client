@@ -1,5 +1,41 @@
+:root{
+  --primaryColor: #1DBF73;
+}
+
+*{
+  font-family: 'Raleway', sans-serif;
+}
+
+@media screen and (max-width: 1280px) {
+  html{
+    font-size: 90%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  html{
+    font-size: 80%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  html{
+    font-size: 70%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  html{
+    font-size: 50%;
+  }
+}
+
+a{
+  transition: all 0.3s;
+}
+
 .App {
-  text-align: center;
+  max-width: 1536px;
 }
 
 .App-logo {
