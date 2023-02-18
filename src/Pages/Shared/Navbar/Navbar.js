@@ -17,7 +17,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="text-right">
-        <Link to='/' className="signin-btn px-5 py-2 text-white rounded-full font-semibold"><button>Sign in</button></Link>
+        <Link to='/signin' className="signin-btn px-5 py-2 text-white rounded-full font-semibold"><button>Sign in</button></Link>
       </div>
     </div>
   );
